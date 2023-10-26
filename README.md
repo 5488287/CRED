@@ -6,10 +6,10 @@ In order to achieve the above goals, we need to specify not only the iris and pu
   However, it is often difficult to acquire such a reflection-free image that kills two birds with one stone. After extensive experiments, we have found that the ambient light reflected by the human eye is replaced by the light from a point source when a strong point source exists at the time of capture. When the location of the point light source is well chosen, the reflection of the point light source in the eye image will be located at the pupil position, and the reflection can be easily removed without affecting the iris texture and structure. In order to control the reflection position, we chose the camera's flash as the point light source, and in addition, we covered the flash with white soft paper, which not only protects the volunteers' eyes, but also ensures that the captured eye images do not have obvious color deviation.
 ## Structure
 The CRED dataset consists of the following:
-- Eye images$$I_o$$(with strong reflections)
-- Eye images$$I_c$$(without strong reflections)
+- Eye images $I_o$(with strong reflections)
+- Eye images $I_c$(without strong reflections)
 - Gaze region
-- Corneal Images $$I_r$$(without iris interference)
-- Environment Image$$I_s$$
-## 数据集获取
+- Corneal Images $I_r$(without iris interference)
+- Environment Image $I_s$
+## Data Acquisition 
 Since the dataset contains private and sensitive information such as face, iris, environment, etc., you will need to send a request email to mengqidu@foxmail.com for the download address and unzip password.You are expected to indicate the name of the applicant, his/her workplace and organization, the purpose of data use and the e-mail address of the request.
