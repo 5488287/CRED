@@ -8,7 +8,7 @@ In order to achieve the above goals, we need to specify not only the iris and pu
 The CRED dataset consists of the following:
 - Eye images $I_o$(with strong reflections)
 - Eye images $I_c$(without strong reflections)
-- Gaze region
+- Gaze region $R_g$
 - Corneal Images $I_r$(without iris interference)
 - Environment Image $I_s$
 ## Data Acquisition 
