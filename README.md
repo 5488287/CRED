@@ -12,11 +12,17 @@ The CRED dataset consists of the following:
 - Corneal Images $I_r$(without iris interference)
 - Environment Image $I_s$
 ## Examples
-![ Io](https://github.com/5488287/CRED/blob/main/img/du/io.jpg)
+- $I_o$
+![Io](https://github.com/5488287/CRED/blob/main/img/du/io.jpg)
+- $I_c$
 ![Ic](https://github.com/5488287/CRED/blob/main/img/du/ic.JPG)
+- $I_r$
 ![ Ir ](https://github.com/5488287/CRED/blob/main/img/du/ir.jpg)
+- $I_s$
 ![ Is ](https://github.com/5488287/CRED/blob/main/img/du/is.jpg)
-![ Rg ](https://github.com/5488287/CRED/blob/main/img/du/rg.jpg)
+- $ R_g $
+![ Rg ](https://github.com/5488287/CRED/blob/main/img/du/rg.png)
+- $P_o$
 ![ Po ](https://github.com/5488287/CRED/blob/main/img/du/po.jpg)
 
 ## Data Acquisition 
