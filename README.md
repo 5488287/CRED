@@ -12,12 +12,18 @@ The CRED dataset consists of the following:
 - Corneal Images $I_r$(without iris interference)
 - Environment Image $I_s$
 ## Examples
-![ $I_o$ ](https://github.com/5488287/CRED/blob/main/img/du/io.jpg=300x300)
-![ $I_c$ ](https://github.com/5488287/CRED/blob/main/img/du/ic.JPG)
-![ $I_r$ ](https://github.com/5488287/CRED/blob/main/img/du/ir.jpg)
-![ $I_s$ ](https://github.com/5488287/CRED/blob/main/img/du/is.jpg)
-![ $R_g$ ](https://github.com/5488287/CRED/blob/main/img/du/rg.jpg)
-![ $P_o$ ](https://github.com/5488287/CRED/blob/main/img/du/po.jpg)
+- $I_o$
+![Io](https://github.com/5488287/CRED/blob/main/img/du/io.jpg)
+- $I_c$
+![Ic](https://github.com/5488287/CRED/blob/main/img/du/ic.JPG)
+- $I_r$
+![ Ir ](https://github.com/5488287/CRED/blob/main/img/du/ir.jpg)
+- $I_s$
+![ Is ](https://github.com/5488287/CRED/blob/main/img/du/is.jpg)
+- $ R_g $
+![ Rg ](https://github.com/5488287/CRED/blob/main/img/du/rg.png)
+- $P_o$
+![ Po ](https://github.com/5488287/CRED/blob/main/img/du/po.jpg)
 
 ## Data Acquisition 
 Since the dataset contains private and sensitive information such as face, iris, environment, etc., you will need to send a request email to mengqidu@foxmail.com for the download address and unzip password. You are expected to indicate the name of the applicant, his/her workplace and organization, the purpose of data use and the e-mail address of the request.
