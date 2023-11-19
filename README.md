@@ -6,11 +6,14 @@ In order to achieve the above goals, we need to specify not only the iris and pu
   However, it is often difficult to acquire such a reflection-free image that kills two birds with one stone. After extensive experiments, we have found that the ambient light reflected by the human eye is replaced by the light from a point source when a strong point source exists at the time of capture. When the location of the point light source is well chosen, the reflection of the point light source in the eye image will be located at the pupil position, and the reflection can be easily removed without affecting the iris texture and structure. In order to control the reflection position, we chose the camera's flash as the point light source, and in addition, we covered the flash with white soft paper, which not only protects the volunteers' eyes, but also ensures that the captured eye images do not have obvious color deviation.
 ## Structure
 The CRED dataset consists of the following:
-- Eye images $I_o$(with strong reflections)
-- Eye images $I_c$(without strong reflections)
-- Regions of Gaze $R_g$
-- Corneal Images $I_r$(without iris interference)
-- Environment Image $I_s$
+- Eye images $B_o$(with strong reflections)
+- Eye images $B_c$(without strong reflections)
+- Regions of gaze $B_g$
+- Corneal images $B_r$(without iris interference)
+- Pupil, iris, eyelid margins fitting parameters $B_p$
+- Environment Image $B_s$
+## Appendix
+![Appendix](https://github.com/5488287/CRED/blob/main/appendix.pdf)
 ## Examples
 - $I_o$
 ![Io](https://github.com/5488287/CRED/blob/main/img/du/io.jpg)
