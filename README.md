@@ -20,13 +20,17 @@ The CRED dataset consists of the following:
 - $I_c$
 ![Ic](https://github.com/5488287/CRED/blob/main/img/du/ic.JPG)
 - $I_r$
-![ Ir ](https://github.com/5488287/CRED/blob/main/img/du/ir.jpg)
+![Ir](https://github.com/5488287/CRED/blob/main/img/du/ir.jpg)
 - $I_s$
-![ Is ](https://github.com/5488287/CRED/blob/main/img/du/is.jpg)
+![Is](https://github.com/5488287/CRED/blob/main/img/du/is.jpg)
 - $R_g$
-![ Rg ](https://github.com/5488287/CRED/blob/main/img/du/rg.png)
+![Rg](https://github.com/5488287/CRED/blob/main/img/du/rg.png)
 - $P_o$
-![ Po ](https://github.com/5488287/CRED/blob/main/img/du/po.jpg)
+![Po](https://github.com/5488287/CRED/blob/main/img/du/po.jpg)
 
 ## Data Acquisition 
 Since the dataset contains private and sensitive information such as face, iris, environment, etc., you will need to send a request email to mengqidu@foxmail.com for the download address and unzip password. You are expected to indicate the name of the applicant, his/her workplace and organization, the purpose of data use and the e-mail address of the request.
+
+## Future
+The CRED dataset(CREDv1, version 1) is continually expanding in size, and our goal for the future is to further enlarge its scale while particularly striving to enhance data diversity. This involves collecting eye data from volunteers with various skin tones, ages, and irises such as blue, green, and gray. Additionally, we will streamline the collection process to guarantee the safety and comfort of participants throughout the data acquisition process.
+Due to limitations in the data collection scenarios and the stimulation of flashlights to human eyes during the collection process, there are still certain issues with the acquisition of the CRED dataset(CREDv1, version 1). In the future, we will propose the CREDv2 dataset(CRED version 2), which will not only increase the number of collection scenarios but also reduce the stimulation to human eyes during data acquisition.
