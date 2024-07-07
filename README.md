@@ -23,7 +23,7 @@ The CRED dataset consists of the following:
 ![ Ir ](https://github.com/5488287/CRED/blob/main/img/du/ir.jpg)
 - $I_s$
 ![ Is ](https://github.com/5488287/CRED/blob/main/img/du/is.jpg)
-- $ R_g $
+- $R_g$
 ![ Rg ](https://github.com/5488287/CRED/blob/main/img/du/rg.png)
 - $P_o$
 ![ Po ](https://github.com/5488287/CRED/blob/main/img/du/po.jpg)
